@@ -1,0 +1,27 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+    background: url('../assets/background.png'),linear-gradient(45deg,#e74478,#9132d3);
+    height: 100vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 100%;
+}
+.centro{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.imagem__celular{
+  width: 30%;
+  margin-bottom: 0;
+}
+.barra__final li p{
+  margin: 0px;
+}
+.barra__final li{
+  margin: 10px 0;
+}
